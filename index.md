@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## "猜猜我是谁"用户隐私策略
 
-You can use the [editor on GitHub](https://github.com/SeanXu1984/privacy_policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本应用不收集任何类型的用户信息。本应用甚至不提供服务器，所有用户信息，包括用户头像和联系方式均保存在手机本地。用户头像信息和联系方式通过Wi-Fi直连的方式在相邻手机之间传递。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SeanXu1984/privacy_policy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+由于安卓操作系统限制，在使用Wi-Fi直连的时候需要用户授权访问精确地址信息。但是本应用并不收集用户地址信息。
